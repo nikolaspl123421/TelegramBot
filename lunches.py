@@ -8,7 +8,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeybo
 # Включаємо логування
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "7316306574:AAHdpG4dmdU1EtupmPQ2Rv5t_fdYW7eFGRM"  # Замінити на реальний токен
+TOKEN = "7316306574:AAFl2Gsp8nDcQ5NKRRk8GWiEcRUdkI8Ua5A"  # Замінити на реальний токен
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
